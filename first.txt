@@ -1,3 +1,5 @@
 this is first.txt file in the repo of the project2
 
 There are some of new changes in the repository and we want to commit something special in the file.
+
+some new changes.
