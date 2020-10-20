@@ -1,4 +1,6 @@
 this is fifth.txt file in the dev branch
+<<<<<<< HEAD
 some new changes in the master branch
+
 These some more
 ddd
